@@ -1,4 +1,4 @@
-# Selenium Automation with Python 🧪
+# Selenium Automation with Python 
 
 This repository demonstrates end-to-end UI automation testing using **Selenium WebDriver** in **Python**, implemented with both `unittest` and `pytest` frameworks.
 
