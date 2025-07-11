@@ -9,3 +9,12 @@ It includes:
 - Structured and modular code for reusability and scalability
 
 ---
+## 📌 Features
+
+- 🔹 Tests login/logout functionality on [OrangeHRM demo site](https://opensource-demo.orangehrmlive.com/)
+- 🔹 Tests Google Search and opens a Wikipedia link
+- 🔹 Uses **fixtures**, **waits**, and **selectors** effectively
+- 🔹 Generates **beautiful HTML reports** using `pytest-html`
+- 🔹 Supports **both `pytest` and `unittest` styles**
+
+---
